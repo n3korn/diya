@@ -1,17 +1,17 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = true; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isRightsEnabled = false; // Права
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
-var birthdate = "01.01.2001"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
-var name = "Имя" // Имя
+var birthdate = "22.02.2004"; // Дата рождения
+var fullname = "Узюмов Ярослав Олександрович" // ФИО
+var name = "Ярослав" // Имя
 
 // Паспорт
-var passport_id = "123456789" // Номер паспорта
+var passport_id = "48589004" // Номер паспорта
 
 // КПП
-var kpp_id = "0123456789" // ИНН
+var kpp_id = "5133476719" // ИНН
 
 // Права
 var rights_valid_until = "01.01.2022" // Права "Дійсні до"
